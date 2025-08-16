@@ -49,7 +49,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right'});
 
 
 const typed = new Typed('.multiple-text',{
-    strings: ['SQA Engineer','Automation Tester','Competitive Programmer'],
+    strings: ['a SQA Engineer','an Automation Tester','a Competitive Programmer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
